@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/orbiter-generator/static/css/main.356e6d0a.chunk.css",
+    "main.js": "/orbiter-generator/static/js/main.58637a25.chunk.js",
+    "main.js.map": "/orbiter-generator/static/js/main.58637a25.chunk.js.map",
+    "runtime-main.js": "/orbiter-generator/static/js/runtime-main.72bd5670.js",
+    "runtime-main.js.map": "/orbiter-generator/static/js/runtime-main.72bd5670.js.map",
+    "static/js/2.9b0493e1.chunk.js": "/orbiter-generator/static/js/2.9b0493e1.chunk.js",
+    "static/js/2.9b0493e1.chunk.js.map": "/orbiter-generator/static/js/2.9b0493e1.chunk.js.map",
+    "index.html": "/orbiter-generator/index.html",
+    "precache-manifest.19312481ce0c788e7f0ccb7d14cc7a8d.js": "/orbiter-generator/precache-manifest.19312481ce0c788e7f0ccb7d14cc7a8d.js",
+    "service-worker.js": "/orbiter-generator/service-worker.js",
+    "static/css/main.356e6d0a.chunk.css.map": "/orbiter-generator/static/css/main.356e6d0a.chunk.css.map",
+    "static/js/2.9b0493e1.chunk.js.LICENSE": "/orbiter-generator/static/js/2.9b0493e1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72bd5670.js",
+    "static/js/2.9b0493e1.chunk.js",
+    "static/css/main.356e6d0a.chunk.css",
+    "static/js/main.58637a25.chunk.js"
+  ]
+}
